@@ -1,0 +1,5 @@
+H:\c#Test\First\bin\Debug\First.exe
+H:\c#Test\First\bin\Debug\First.pdb
+H:\c#Test\First\obj\Debug\First.csprojAssemblyReference.cache
+H:\c#Test\First\obj\Debug\First.exe
+H:\c#Test\First\obj\Debug\First.pdb
